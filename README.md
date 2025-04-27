@@ -44,7 +44,7 @@ Running the Project
 
     Clone the repository:
 
-git clone https://github.com/yourusername/malaria-detection.git
+git clone https://github.com/Balisa50/malaria-detection.git
 cd malaria-detection
 
 Run the script to start training the model:
